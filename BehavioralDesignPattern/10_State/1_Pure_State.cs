@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CSharpDesignPattern.BehavioralDesignPattern
+namespace CSharpDesignPattern.BehavioralDesignPattern._10_State
 {
     public class _1_Pure_State
     {
